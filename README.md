@@ -1,7 +1,7 @@
 # Indonesia-Coal-Stock-Analysis-2016-2020
 
 Hello! This is my analysis of Indonesia Coal Stocks from 2016 to 2020.\
-**Note**: If you want to see the HD pictures of what i've upload, please check the ipynb file.
+**Note**: If you want to see the the full analysis and HD pictures of what i've upload, please check the '*Indonesia Coal Stock Analysis 2016-2020*' ipynb file.
 
 
 ### REMINDER!!

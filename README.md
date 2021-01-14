@@ -5,7 +5,7 @@ Hello! This is my analysis of Indonesia Coal Stocks from 2016 to 2020.\
 
 
 ### REMINDER
-### I am no expert in coal industry, here i just did the analysis based on data and news/publication research
+#### I am no expert in coal industry, here i just did the analysis based on data and news/publication research
 
 
 
